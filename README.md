@@ -1,2 +1,2 @@
-# tthomrepospring2022
+# thomrepospring2022
 spring 2022
